@@ -64,7 +64,6 @@ github.com/aws/aws-sdk-go/service/sts/stsiface
 # github.com/beorn7/perks v1.0.1
 github.com/beorn7/perks/quantile
 # github.com/census-instrumentation/opencensus-proto v0.3.0
-## explicit
 github.com/census-instrumentation/opencensus-proto/gen-go/agent/common/v1
 github.com/census-instrumentation/opencensus-proto/gen-go/metrics/v1
 github.com/census-instrumentation/opencensus-proto/gen-go/resource/v1
@@ -135,8 +134,6 @@ github.com/envoyproxy/go-control-plane/envoy/type/v3
 # github.com/envoyproxy/protoc-gen-validate v0.6.2
 ## explicit
 github.com/envoyproxy/protoc-gen-validate/validate
-# github.com/go-kit/kit v0.10.0
-## explicit
 # github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da
 ## explicit
 github.com/golang/groupcache/lru
@@ -193,7 +190,6 @@ github.com/jacobsa/ogletest/srcutil
 ## explicit
 github.com/jacobsa/ratelimit
 # github.com/jacobsa/reqtrace v0.0.0-20150505043853-245c9e0234cb
-## explicit
 github.com/jacobsa/reqtrace
 # github.com/jacobsa/syncutil v0.0.0-20180201203307-228ac8e5a6c3
 ## explicit
@@ -209,11 +205,9 @@ github.com/jmespath/go-jmespath
 # github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0
 ## explicit
 github.com/kardianos/osext
-# github.com/kylelemons/godebug v1.1.0
-## explicit
 # github.com/matttproud/golang_protobuf_extensions v1.0.1
 github.com/matttproud/golang_protobuf_extensions/pbutil
-# github.com/prometheus/client_golang v1.11.0
+# github.com/prometheus/client_golang v1.11.1
 ## explicit
 github.com/prometheus/client_golang/prometheus
 github.com/prometheus/client_golang/prometheus/internal
@@ -283,7 +277,6 @@ golang.org/x/sys/internal/unsafeheader
 golang.org/x/sys/unix
 golang.org/x/sys/windows
 # golang.org/x/text v0.3.7
-## explicit
 golang.org/x/text/secure/bidirule
 golang.org/x/text/transform
 golang.org/x/text/unicode/bidi
